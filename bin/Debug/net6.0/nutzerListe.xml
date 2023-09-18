@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNutzer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nutzer>
+    <Vorname>Cioco</Vorname>
+    <Nachname>Daniel</Nachname>
+    <Geburtstag>Gestern</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>Paw</Vorname>
+    <Nachname>Girlfriend</Nachname>
+    <Geburtstag>AndereTag</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>Trainer</Vorname>
+    <Nachname>LutzUgRuB</Nachname>
+    <Geburtstag>Dunno</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>Boss</Vorname>
+    <Nachname>NotBoss</Nachname>
+    <Geburtstag>MaybeBoss</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>Hmm</Vorname>
+    <Nachname>Mmmh</Nachname>
+    <Geburtstag>hmhMMmhh</Geburtstag>
+  </Nutzer>
+</ArrayOfNutzer>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNutzer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nutzer>
+    <Vorname>Daniel</Vorname>
+    <Nachname>Marian</Nachname>
+    <Geburtstag>17.08</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>Paw</Vorname>
+    <Nachname>Beauty</Nachname>
+    <Geburtstag>Morgen</Geburtstag>
+  </Nutzer>
+  <Nutzer>
+    <Vorname>AnotherName</Vorname>
+    <Nachname>NameAnother</Nachname>
+    <Geburtstag>AnotherDate</Geburtstag>
+  </Nutzer>
+</ArrayOfNutzer>

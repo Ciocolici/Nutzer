@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Nutzer.exe
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Nutzer.deps.json
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Nutzer.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Nutzer.dll
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Nutzer.pdb
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.dll
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\refint\Nutzer.dll
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.pdb
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\ref\Nutzer.dll
+C:\Users\danie\Documents\GitHub\Nutzer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Nutzer\obj\Debug\net6.0\Nutzer.csproj.CopyComplete
